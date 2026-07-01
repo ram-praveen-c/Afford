@@ -1,0 +1,17 @@
+{
+  "name": "insurance-claims-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  },
+  "description": "This is a minimal Node.js + Express backend connection.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
